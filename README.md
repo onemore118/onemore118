@@ -1,4 +1,4 @@
-![](./src/head.png)
+![](./src/cover.png)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=My+name+is+onemore118+%F0%9F%99%8C;Welcome+to+visit+my+repositories+%E2%AD%90)](https://git.io/typing-svg)
 
